@@ -10,7 +10,7 @@ import { initStorageBtns } from './initStorageInModal';
 const apiKey = 'd91911ebb88751cf9e5c4b8fdf4412c9';
 
 const cardFilm = document.querySelector('.card__colection');
-cardFilm.addEventListener('click', openModal);
+// cardFilm.addEventListener('click', openModal);
 
 function fetchOneMovieInfo(movie_id) {
   const url = `https://api.themoviedb.org/3/movie/${movie_id}?api_key=${apiKey}`;

@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "filmoteka-e5eec",
+    "staging": "filmoteka-e5eec",
+    "staging2": "filmoteka-e5eec",
+    "st3": "filmoteka-e5eec",
+    "st4": "filmoteka-e5eec"
+  }
+}
